@@ -1,5 +1,4 @@
 import { NextSeo } from "next-seo";
-import opengraph from "../public/images/opengraph.svg";
 
 function MyApp({ Component, pageProps }) {
   return (
